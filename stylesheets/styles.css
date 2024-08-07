@@ -333,6 +333,20 @@ footer {
 	padding-right: 40px;
 	}
 	
+	.contact {
+	padding-left: 40px;
+	padding-right: 40px;
+	align-items: center;
+	}
+	
+	.contact h3 {
+			font-size: 15px
+	}
+	
+	.contact h5 {
+			font-size: 25px;
+	}
+	
 	.accueil h3 {
             font-size: 17px;   
         }
