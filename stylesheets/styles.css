@@ -320,6 +320,11 @@ footer {
     justify-content: space-between;
 }
 
+footer a:link {color:#fff;}
+
+footer a:visited {color:#fff;}
+
+
 @media (max-width: 768px) {
     nav ul {
         display: none;
