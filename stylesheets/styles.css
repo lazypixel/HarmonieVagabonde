@@ -101,6 +101,10 @@ nav ul li a {
 	padding-right: 150px;
 }
 
+.cestquoi {
+    background-color: #FEE7F0;
+}
+
 .notre-equipe {
     background: #FFD7E7;
 }
@@ -341,7 +345,7 @@ footer a:visited {color:#fff;}
     }
 	
 	.accueil {
-    background: url('../images/accueil2.jpg') no-repeat center center/cover;
+    background: url('../images/accueil3.jpg') no-repeat center center/cover;
 	color: #333;
 	overflow: hidden;
 	padding-left: 40px;
